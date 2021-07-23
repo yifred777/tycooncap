@@ -1048,8 +1048,9 @@ fieldset[disabled] .btn-warning.active {
 }
 
 .logo-img {
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
+    margin-top: 150px;
 }
 
 .logo-container {
